@@ -4,4 +4,5 @@
 * [House Price prediction using python](</projects/Project3/>)
 * [Fake news prediction using python](</projects/Project4/>)
 * [Loan status prediction using python](</projects/Project5/>)
+* [Wine quality predictions using python](/projects/Project6/)
 
