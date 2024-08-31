@@ -6,3 +6,5 @@
 * [Loan status prediction using machine learning with python](</projects/Project5/>)
 * [Wine quality predictions using machine learning with python](/projects/Project6/)
 * [Car price prediction using machine learning with python](/projects/Project7/)
+* [Gold price prediction using machine learning with python](/projects/Project8/)
+
