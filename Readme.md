@@ -9,3 +9,4 @@
 * [Gold price prediction using machine learning with python](/projects/Project8/)
 * [Heart disease prediction using machine learning with python](/projects/Project9/)
 * [Credit card fraud detection using machine learning in python](/projects/Project10/)
+* [Medical insurance cost prediction using machine learning with python](/projects/Project11/)
